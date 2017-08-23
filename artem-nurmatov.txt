@@ -1,0 +1,4 @@
+1. 8
+2. 9 Oct 2012 (по Gemfile>history в репозитории на GitGub) и Wed Oct 10 00:47:52 2012 +0400 (по git log --follow Gemfile). Откуда беруется разные даты для одного коммита?
+3. Pavel Tsaregorodtsev ixpict
+4. 3b128fa - https://github.com/express42/zabbixapi/commit/3b128fa1c6b96c9be4aed5b2bcf777537d752c5e
